@@ -1,4 +1,4 @@
-**Retrieving records from Database of Food Order App using MySQL**
+**Retrieving records from database of Food Order App using MySQL**
 
 This project involves retrieving various records from the Food Order App database. All the create, insert and retrieve operations will be performed using MySQL.
 
